@@ -1,0 +1,17 @@
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+body {
+    background-color: rgb(255, 170, 170);
+}
+.name_of_objects {
+    font-size: medium;
+}
+#camera, #result {
+    border: 2px solid;
+    padding: 10px;
+    box-shadow: 9px 8px 5px 0px #bad1ff;
+    width: 400px !important;
+    height: 300px !important;
+}
